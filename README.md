@@ -8,9 +8,9 @@ My name is João Paulo Sales Brum, I was born in Santiago - RS, Brazil and I'm a
 
 I am a telecomunnications engineering student (last year of bachelor) since 2016 and now I take some courses to become a data scientist. I have been programming since 2016, with some experience in embbeded systems, mathematical optimizations in signal processing and python adept.
 
-I started studying data science in the end of 2019 and since then I am into this field, developing solutions using artificial intelligence for the business field. Also, I have been improving my solutions and learning new things related to data science field, in order to achieve the best solution and help the companies to get more money.
+I started studying data science in the end of 2019 and since then I am into this field, developing solutions using artificial intelligence for the business field. Also, I have been improving my knowledge and learning new things related to data science field, in order to achieve the best solution and help the companies to get more money.
 
-My solutions so far includes: Regression, Classifications, NLP and Computer Vision.
+My solutions so far include: Regression, Classifications, NLP and Computer Vision.
 
 The tools that I have experience are: Scikit-learn, Caret, Tensorflow, Spark, Tableau and AWS cloud.
 
