@@ -1,7 +1,7 @@
 # About me & Contact
 **Personal life**
 
-My name is João Paulo Sales Brum, I was born in Santiago - RS, Brazil and I'm actually 24 years old. I am a data science enthusiast and currently I am doing an exchange in France. Also, in my free time, i like to play sports, go out with friends and travel the world .
+My name is João Paulo Sales Brum, I was born in Santiago - RS, Brazil and I'm actually 26 years old. I am a data science enthusiast and currently I am based in France. Also, in my free time, i like to play sports, go out with friends and travel the world .
 
 
 **Professional career**
