@@ -10,9 +10,9 @@ Data Scientist/Analyst with 3 years of experience in the data domain and holds a
 
 Currently working as Business/Data Analyst.
 
-My solutions so far include: Regression, Classifications, NLP and Computer Vision.
+My solutions so far include: Regression, Classifications, ETL, Cloud and Software Engineering.
 
-The tools that I have experience are: Scikit-learn, Caret, Tensorflow, Spark, Tableau and AWS cloud.
+The tools that I have experience are: Scikit-learn, Tensorflow, Spark, Tableau, PowerBI, Spotfire, Databricks and AWS cloud.
 
 **Projects Portfolio**  
 https://medium.com/@indatawetrust.idwt
