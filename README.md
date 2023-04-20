@@ -18,6 +18,28 @@ The tools that I have experience are: Scikit-learn, Caret, Tensorflow, Spark, Ta
 * [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-fratucci-906a94172/)](https://www.linkedin.com/in/jooaobrum/)
 * [![Hotmail Badge](https://img.shields.io/badge/-joao.paulo.brum14@gmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:joao.paulo.brum14@gmail.com)](mailto:joao.paulo.brum14@gmail.com)
 
+# Main Projects:
+### Analysis & Insights Storytelling
+[[PT-BR] Alavancando Insights de Campanhas de Marketing - Parte 1](https://medium.com/@indatawetrust.idwt/alavancando-insights-de-campanhas-de-marketing-com-an%C3%A1lise-explorat%C3%B3ria-e-shap-explainable-ai-207ae7e7b97c)
+
+[[EN-US] Leveraging Marketing Campaign Insights — Part 1](https://medium.com/@indatawetrust.idwt/en-us-leveraging-marketing-campaigns-insights-with-exploratory-analysis-and-shap-explainable-942989a49f41)
+
+Repository: https://github.com/jooaobrum/marketing_campaign_CRM_case 
+Notebook: crm_ifood_data_analysis.ipynb
+
+### Clustering Storytelling
+[[PT-BR] Aprimorando a Estratégia de Marketing com Ciência de Dados: Priorizando Clientes e Entregando o que Eles Querem Comprar — Parte 2](https://medium.com/@indatawetrust.idwt/pt-br-aprimorando-a-estrat%C3%A9gia-de-marketing-com-ci%C3%AAncia-de-dados-priorizando-clientes-e-1bf6bf654a10)
+
+[[EN-US] Enhancing Marketing Strategy with Data Science: Prioritizing Customers and Delivering What They Want to Buy — Part 2](https://medium.com/@indatawetrust.idwt/enhancing-marketing-strategy-with-data-science-prioritizing-customers-and-delivering-what-they-b4cb32670a0f)
+
+Repository: https://github.com/jooaobrum/marketing_campaign_CRM_case
+Notebook: crm_ifood_clustering_exploration.ipynb
+### Modeling Customer Propensity 
+
+Repository: https://github.com/jooaobrum/marketing_campaign_CRM_case
+Notebook: crm_ifood_propensity_exploration.ipynb
+
+
 # Some Statistics
 
  <div>
