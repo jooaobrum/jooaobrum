@@ -14,9 +14,14 @@ My solutions so far include: Regression, Classifications, NLP and Computer Visio
 
 The tools that I have experience are: Scikit-learn, Caret, Tensorflow, Spark, Tableau and AWS cloud.
 
+**Projects Portfolio**  
+https://medium.com/@indatawetrust.idwt
+
 **Contact:**
-* [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-fratucci-906a94172/)](https://www.linkedin.com/in/jooaobrum/)
+* [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jooaobrum/)](https://www.linkedin.com/in/jooaobrum/)
 * [![Hotmail Badge](https://img.shields.io/badge/-joao.paulo.brum14@gmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:joao.paulo.brum14@gmail.com)](mailto:joao.paulo.brum14@gmail.com)
+
+
 
 # Main Projects:
 ### Analysis & Insights Storytelling
