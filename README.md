@@ -24,20 +24,20 @@ The tools that I have experience are: Scikit-learn, Caret, Tensorflow, Spark, Ta
 
 [[EN-US] Leveraging Marketing Campaign Insights — Part 1](https://medium.com/@indatawetrust.idwt/en-us-leveraging-marketing-campaigns-insights-with-exploratory-analysis-and-shap-explainable-942989a49f41)
 
-Repository: https://github.com/jooaobrum/marketing_campaign_CRM_case 
-Notebook: crm_ifood_data_analysis.ipynb
+Repository: https://github.com/jooaobrum/marketing_campaign_CRM_case / Notebook: crm_ifood_data_analysis.ipynb
+
 
 ### Clustering Storytelling
 [[PT-BR] Aprimorando a Estratégia de Marketing com Ciência de Dados: Priorizando Clientes e Entregando o que Eles Querem Comprar — Parte 2](https://medium.com/@indatawetrust.idwt/pt-br-aprimorando-a-estrat%C3%A9gia-de-marketing-com-ci%C3%AAncia-de-dados-priorizando-clientes-e-1bf6bf654a10)
 
 [[EN-US] Enhancing Marketing Strategy with Data Science: Prioritizing Customers and Delivering What They Want to Buy — Part 2](https://medium.com/@indatawetrust.idwt/enhancing-marketing-strategy-with-data-science-prioritizing-customers-and-delivering-what-they-b4cb32670a0f)
 
-Repository: https://github.com/jooaobrum/marketing_campaign_CRM_case
-Notebook: crm_ifood_clustering_exploration.ipynb
+Repository: https://github.com/jooaobrum/marketing_campaign_CRM_case / Notebook: crm_ifood_clustering_exploration.ipynb
+
 ### Modeling Customer Propensity 
 
-Repository: https://github.com/jooaobrum/marketing_campaign_CRM_case
-Notebook: crm_ifood_propensity_exploration.ipynb
+Repository: https://github.com/jooaobrum/marketing_campaign_CRM_case / Notebook: crm_ifood_propensity_exploration.ipynb
+
 
 
 # Some Statistics
