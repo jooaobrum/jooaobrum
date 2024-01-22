@@ -8,7 +8,7 @@ My name is João Paulo Sales Brum, I was born in Santiago - RS, Brazil and I'm a
 
 Data Scientist/Analyst with 3 years of experience in the data domain and holds a Bachelor's degree in Engineering from Universidade Federal de Santa Maria (Brazil) and a Master's degree in Data and Economics from Université Grenoble Alpes (France). With a strong educational background in Python, R, and SQL, demonstrates proficiency in data visualization, statistical modeling, machine learning, and MLOps. In addition, he collaborates effectively with professionals from diverse backgrounds worldwide and is highly skilled at promoting data-driven solutions to complex business challenges while collaborating with stakeholders.
 
-Currently working as Business/Data Analyst.
+Currently working as Data Scientist.
 
 My solutions so far include: Regression, Classifications, ETL, Cloud and Software Engineering.
 
